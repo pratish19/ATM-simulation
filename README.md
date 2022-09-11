@@ -1,6 +1,13 @@
 # ATM-simulation
+This is a project made in 2021-2022.
+As a School Project
 
-this is a sample project
+using:
+tkinter
+Python
+MySQL
 
-this is just for check up
-once more
+How to use:
+1.clone repository
+2.run and debug 
+voila!
